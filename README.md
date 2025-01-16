@@ -38,6 +38,7 @@ To run the FaceID Security Application locally, follow the steps below:
    ```bash
    git clone https://github.com/yourusername/faceid-security-app.git
    cd faceid-security-app
+```bash
 pip install -r requirements.txt
 
 npm install

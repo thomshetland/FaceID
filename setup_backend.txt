@@ -1,0 +1,9 @@
+To set up the backend a conda environment needs to be created.
+
+This can be done with the command;
+
+                    "conda env create -f environment.yml"
+
+If this causes errors, please use Linux (Ubuntu distro or WSL ubuntu) and conda and create and environment using the command;
+
+                     "conda create --name jamaIOIO --file requirements.txt"

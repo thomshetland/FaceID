@@ -1,0 +1,19 @@
+Setting Up the Project
+The node_modules directory contains all the dependencies required to run the project. 
+However, to set up the project on your system, you need to install certain frameworks and tools.
+Follow these steps:
+
+Install Node.js:
+Download and install Node.js. Ensure you install a version compatible with your project (e.g., Node.js 16.x.x).
+
+Install Expo CLI:
+Open a terminal and run the following command to globally install Expo CLI:
+npm install -g expo-cli
+
+Install Project Dependencies:
+Navigate to the project directory and install the required dependencies by running:
+npm install
+
+Start the App:
+Launch the app by running:
+npx expo start
